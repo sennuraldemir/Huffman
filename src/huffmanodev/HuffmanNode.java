@@ -1,7 +1,7 @@
 
 package huffmanodev;
 
-import java.util.Comparator;
+import java.util.Comparator;  // bir nesneler dizisi üzerinde sıralama yapar
 
 class HuffmanNode {
 
