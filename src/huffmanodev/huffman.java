@@ -23,6 +23,7 @@ class Huffman {
             return;
         }
 
+        // özyinelemeli olarak çağırılır ve gidiş yönüne göre 0 veya 1 değerini alır
         printCode(root.left, s + "0");
         printCode(root.right, s + "1");
     
